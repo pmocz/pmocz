@@ -8,7 +8,7 @@ Computational Physicist | Lawrence Livermore National Laboratory
 
 👉 Follow me on:
 <div class="grid" align="center">
-  <a href="[https://twitter.com/PMocz](https://philip-mocz.medium.com)">
+  <a href="https://philip-mocz.medium.com">
     <img alt="Follow me on Medium!" title="Philip Mocz's Medium" src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
   <a href="https://twitter.com/PMocz">
@@ -17,7 +17,7 @@ Computational Physicist | Lawrence Livermore National Laboratory
   <a href="https://github.com/pmocz">
     <img alt="Follow me on GitHub!" title="Philip Mocz's Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/philip-mocz">
+  <a href="https://linkedin.com/in/philip-mocz">
     <img alt="Follow me on Linkedin!" title="Philip Mocz's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
