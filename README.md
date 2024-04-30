@@ -1,6 +1,6 @@
 ## Philip Mocz -- @pmocz
 
-Computational Physicist | Lawrence Livermore National Laboratory
+Computational Physicist and Software Engineer | Flatiron Institute
 
 💥 I am a computational scientist and software engineer, with experience developing multi-physics simulation algorithms for advanced heterogeneous computing architectures. I have expertise in numerical methods used in computational fluid dynamics, astrophysics, and plasma physics, and designing systems for scientific computing.
 
