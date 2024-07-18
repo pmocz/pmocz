@@ -2,24 +2,16 @@
 
 Computational Physicist and Software Engineer | Flatiron Institute
 
-💥 I am a computational scientist and software engineer, with experience developing multi-physics simulation algorithms for advanced heterogeneous computing architectures. I have expertise in numerical methods used in computational fluid dynamics, astrophysics, and plasma physics, and designing systems for scientific computing.
+💥 I am a computational scientist and software engineer, experienced in developing multi-physics simulation algorithms for advanced heterogeneous computing architectures. I like to develop scientific software for computational fluid dynamics, astrophysics, and plasma physics.
 
 📝 I also blog about simulation methods, accessible at the undergraduate level, using Python, which you can find here: [https://philip-mocz.medium.com](https://philip-mocz.medium.com)
 
 👉 Follow me on:
 <div class="grid" align="center">
-  <a href="https://philip-mocz.medium.com">
-    <img alt="Follow me on Medium!" title="Philip Mocz's Medium" src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/PMocz">
-    <img alt="Follow me on Twitter!" title="Philip Mocz's Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pmocz">
-    <img alt="Follow me on GitHub!" title="Philip Mocz's Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/philip-mocz">
-    <img alt="Follow me on Linkedin!" title="Philip Mocz's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://philip-mocz.medium.com"><img alt="Follow me on Medium!" title="Philip Mocz's Medium" src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+  <a href="https://twitter.com/PMocz"><img alt="Follow me on Twitter!" title="Philip Mocz's Twitter" src="https://img.shields.io/badge/Twitter-%23121011.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://github.com/pmocz"><img alt="Follow me on GitHub!" title="Philip Mocz's Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/philip-mocz"><img alt="Follow me on Linkedin!" title="Philip Mocz's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ### Popular Blog Posts
