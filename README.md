@@ -4,7 +4,7 @@ Computational Physicist and Software Engineer | Flatiron Institute
 
 💥 I am a computational scientist and software engineer, experienced in developing multi-physics simulation algorithms for advanced heterogeneous computing architectures. I like to develop scientific software for computational fluid dynamics, astrophysics, and plasma physics.
 
-📝 I also blog about simulation methods, accessible at the undergraduate level, using Python, which you can find here: [https://philip-mocz.medium.com](https://philip-mocz.medium.com)
+📝 I also blog about simulation methods, accessible at the undergraduate level, using Python, that can be found here: [https://philip-mocz.medium.com](https://philip-mocz.medium.com)
 
 👉 Follow me on:
 <div class="grid" align="center">
