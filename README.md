@@ -1,12 +1,12 @@
-## Philip Mocz -- @pmocz
+## Philip Mocz - [@pmocz](https://github.com/pmocz)
 
 Computational Physicist and Software Engineer | Flatiron Institute
 
-💥 I am a computational scientist and software engineer, experienced in developing multi-physics simulation algorithms for advanced heterogeneous computing architectures. I like to develop scientific software for computational fluid dynamics, astrophysics, and plasma physics.
+💻 **I am a computational scientist and software engineer** experienced in developing multi-physics simulation algorithms for advanced heterogeneous computing architectures. I like to develop scientific software for computational fluid dynamics, astrophysics, and plasma physics.
 
-📝 I also blog about simulation methods, accessible at the undergraduate level, using Python, that can be found here: [https://philip-mocz.medium.com](https://philip-mocz.medium.com)
+📚 **I also blog about simulation methods in Python** accessible at the undergraduate level. ✨ Dive into my blog here: [https://philip-mocz.medium.com](https://philip-mocz.medium.com)
 
-👉 Follow me on:
+➡️ Follow me on:
 <div class="grid" align="center">
   <a href="https://philip-mocz.medium.com"><img alt="Follow me on Medium!" title="Philip Mocz's Medium" src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
   <a href="https://twitter.com/PMocz"><img alt="Follow me on Twitter!" title="Philip Mocz's Twitter" src="https://img.shields.io/badge/Twitter-%23121011.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
